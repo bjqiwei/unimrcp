@@ -31,10 +31,10 @@
 /libtool
 /Makefile.in
 /Makefile
-/CHANGES-deps
-/README-deps
-/unimrcpdeps.sln
-/unimrcpdeps-2010.sln
+#/CHANGES-deps
+#/README-deps
+#/unimrcpdeps.sln
+#/unimrcpdeps-2010.sln
 
 # /build/
 /build/ltmain.sh
@@ -78,17 +78,17 @@
 /data/Makefile
 
 # /docs/
-/docs/dox
-/docs/ea
-/docs/doxygen.conf
+#/docs/dox
+#/docs/ea
+#/docs/doxygen.conf
 
 # /libs/
-/libs/apr
-/libs/apr-iconv
-/libs/apr-util
-/libs/sofia-sip
-/libs/Makefile.in
-/libs/Makefile
+#/libs/apr
+#/libs/apr-iconv
+#/libs/apr-util
+#/libs/sofia-sip
+#/libs/Makefile.in
+#/libs/Makefile
 
 # /libs/apr-toolkit/
 /libs/apr-toolkit/Debug
