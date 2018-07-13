@@ -82,7 +82,7 @@
         specified per "mrcpv2-uas" by means of "mrcp-ip".
       -->
       <!-- <mrcp-ip>10.10.0.1</mrcp-ip> -->
-      <mrcp-port>1544</mrcp-port>
+      <mrcp-port>1644</mrcp-port>
       <max-connection-count>100</max-connection-count>
       <max-shared-use-count>100</max-shared-use-count>
       <force-new-connection>false</force-new-connection>
